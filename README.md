@@ -15,4 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="octocat-1743614154448.png" width="50%">
-![](octocat-1743614154448.png)
