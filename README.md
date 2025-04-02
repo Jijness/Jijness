@@ -1,4 +1,4 @@
-## Hi there 👋
+# <img width="36" height="36" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
 
 <!--
 **Jijness/Jijness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jijness)](https://github.com/anuraghazra/github-readme-stats)
+![](https://img.shields.io/github/followers/Jijness?logo=github&color=facc15&labelColor=ff7337)
+![](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/Jijness)
+![](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Forks&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/Jijness)
+![](https://komarev.com/ghpvc/?username=Jijness)
 
-<img src="octocat-1743614154448.png" width="50%">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jijness&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center">
+  <img src="octocat-1743614154448.png" width="200" height="200">
+</p>
+
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jijness&hide_progress=true&theme=dark&layout=compact">
+</p>
