@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="octocat-1743614154448.png" width="200" height="200">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+  <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="100" height="100">
 </p>
 
 <p align="right">
