@@ -1,4 +1,4 @@
-# <img width="36" height="36" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
+#<img width="36" height="36" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"> Hallo!
 
 <!--
 **Jijness/Jijness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,10 +20,9 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=Jijness)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jijness&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <p align="center">
   <img src="octocat-1743614154448.png" width="200" height="200">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 </p>
 
 <p align="right">
