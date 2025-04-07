@@ -1,4 +1,4 @@
-# <img width="36" height="36" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"> Hallo! <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="100" height="100">
+# <img width="36" height="36" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"> Hallo! <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="50" height="50">
 
 <!--
 **Jijness/Jijness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
