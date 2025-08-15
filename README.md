@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 ![](https://komarev.com/ghpvc/?username=Jijness)
 
 
-<p align="center">
+<!--<p align="center">
   <img src="octocat-1743614154448.png" width="200" height="200">
   
 </p>
-
+-->
 <p align="right">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jijness&hide_progress=true&theme=dark&layout=compact">
 </p>
